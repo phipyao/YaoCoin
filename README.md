@@ -1,0 +1,2 @@
+# YaoCoin
+Fully Functioning Cryptocurrency
