@@ -1,0 +1,8 @@
+6b3ee4651c96e44bba14a621b5e51e2d98cb85fbaa064ae82bfc8f35a8455963
+
+Transferred 100 from sun_tzu to 30826aced5af3402 and the statement to 'bob-funding.txt' on Mon Apr 03 19:10:32 EDT 2023
+Transferred 100 from sun_tzu to 30826aced5af3402 and the statement to 'bob-funding.txt' on Mon Apr 03 19:10:32 EDT 2023
+Transferred 100 from 30826aced5af3402 to aecadaa1e278db6 and the statement to 'bob-to-alice.txt' on Mon Apr 03 19:34:02 EDT 2023
+Transferred 100 from 30826aced5af3402 to aecadaa1e278db6 and the statement to 'bob-to-alice.txt' on Mon Apr 03 19:34:02 EDT 2023
+
+nonce: 172
